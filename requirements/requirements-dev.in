@@ -1,0 +1,7 @@
+-c ./constraints.txt
+
+black
+isort
+flake8
+mypy
+pytest

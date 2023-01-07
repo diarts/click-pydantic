@@ -1,0 +1,26 @@
+# General.
+click>=8.1.0
+importlib-metadata<=4.3.0
+pydantic>=1.10.0
+typing-extensions>=4.4.0
+zipp>=3.11.0
+
+# Dev.
+attrs>=22.2.0
+black>=22.12.0
+exceptiongroup>=1.1.0
+flake8>=5.0.0
+iniconfig>=2.0.0
+isort>=5.11.0
+mccabe>=0.7.0
+mypy>=0.991
+mypy-extensions>=0.4.0
+packaging>=22.0
+pathspec>=0.10.0
+platformdirs>=2.6.0
+pluggy>=1.0.0
+pycodestyle>=2.9.0
+pyflakes>=2.5.0
+pytest>=7.2.0
+tomli>=2.0.0
+typed-ast>=1.5.0
