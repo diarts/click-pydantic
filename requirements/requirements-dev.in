@@ -1,3 +1,5 @@
+-i https://pypi.python.org/simple/
+
 -c ./constraints.txt
 
 black

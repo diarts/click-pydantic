@@ -1,6 +1,6 @@
 # General.
 click>=8.1.0
-importlib-metadata<=4.3.0
+importlib-metadata<4.3.0
 pydantic>=1.10.0
 typing-extensions>=4.4.0
 zipp>=3.11.0
